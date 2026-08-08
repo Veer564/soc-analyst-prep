@@ -16,7 +16,8 @@ This is the flagship folder — full triage writeups, not walkthroughs. Each one
 
 | Ticket | Scenario type | Status |
 |---|---|---|
-| `ticket-01-TEMPLATE/` | — | Fill in from your own graded ticket scenarios |
-| `capstone-tempest/` | TryHackMe Tempest room, written up as a real ticket | Draft structure ready |
+| [`ticket-01-benign-alert-triage/`](./ticket-01-benign-alert-triage) | Splunk log triage — suspicious executable that turned out benign | Complete |
+| [`capstone-tempest/`](./capstone-tempest) | TryHackMe Tempest — full incident, persistence + C2 | Complete |
+| [`capstone-boogeyman/`](./capstone-boogeyman) | TryHackMe Boogeyman — phishing entry point, full incident | Complete |
 
 Add one new ticket every 1–2 weeks — consistency here matters more than volume.
