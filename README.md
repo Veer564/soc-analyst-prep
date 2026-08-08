@@ -31,6 +31,7 @@ This isn't a notes dump. Every writeup here follows the same format — **Proble
 | [`incident-tickets/`](./incident-tickets) | **Flagship folder.** Full incident triage writeups, including TryHackMe capstone rooms (Tempest, Boogeyman) written up as real tickets, not walkthroughs |
 | [`ctf-writeups/`](./ctf-writeups) | OverTheWire Bandit → picoCTF, mapping blue-team skills to CTF categories |
 | [`docs/course-mapping.md`](./docs/course-mapping.md) | How this repo maps to TryHackMe's SOC Level 1 path structure |
+| [`docs/learning-journal.md`](./docs/learning-journal.md) | Honest, unpolished notes on what came easily, what needed help, and what's still a work in progress |
 
 ## Why this structure
 
